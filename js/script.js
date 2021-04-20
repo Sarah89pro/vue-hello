@@ -6,6 +6,7 @@ const app = new Vue({
     data: {
         myClass: "main-title",
         title: "Il pranzo",
+        img: "https://static.cookist.it/wp-content/uploads/sites/21/2019/03/burrito-638x425.jpg",
 
     }
 });
