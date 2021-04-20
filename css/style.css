@@ -1,0 +1,24 @@
+/*GENERAL*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(228, 151, 57);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-title {
+    color:rgb(73, 47, 16);
+    text-decoration: wavy;
+    text-transform: uppercase;
+    margin: 25px 0;
+}
